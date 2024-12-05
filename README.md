@@ -6,7 +6,7 @@ Bem-vindo ao meu **Hub de Links**! Este projeto foi desenvolvido como parte da m
 
 ## Link para Visualização
 
-Acesse o hub de links online através deste link: [devsantx.github.io/hub-de-links](https://devsantx.github.io/hub-de-links/).
+Acesse o hub de links online através deste link: [[devsantx.github.io/hub-de-links](https://devsantx.github.io/hub-de-links/)](https://github.com/devsantx/Dev-Links).
 
 <img alt="Projeto DevLinks" src='.github/Preview.png' >
 
